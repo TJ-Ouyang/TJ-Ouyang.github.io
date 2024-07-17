@@ -10,8 +10,8 @@ redirect_from:
 I'm a second-year master student in [FIB-Lab](https://fi.ee.tsinghua.edu.cn/) at Tsinghua Univeristy, advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl). My research interest includes multimodal LLM's application on urban science, health and socioeconomics.
 
 Research Projects
-======
-Multimodal Large Language Model for City Tasks - Detection, Reasoning, and Prediction: 
+------
+Multimodal Large Language Model for City Tasks - Detection, Reasoning, and Prediction:
 ------
 We propose a multimodal LLM specifically fine-tuned for city relavant tasks such as city object detection, city scene classification, geo-location reasoning and socioeconomics indicators prediction. A vision-language dataset for instruct tuning is built using millions of satellite and street view images sampled from cities around the world.
 
