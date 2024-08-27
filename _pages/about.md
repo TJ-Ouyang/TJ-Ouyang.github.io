@@ -16,13 +16,13 @@ ChestLIP-LLM: Understanding Health Records and Chest X-ray Images via Multi-moda
 ------
 Chest X-rays are among the most common and cost-effective medical imaging exams. However, diagnosing chest X-rays can be challenging. To address this, we propose a novel approach that utilizes contrastive pre-training (CLIP) to cluster X-ray images based on similar diagnostic labels. By incorporating chain of thought (CoT) prompts and visual instruction tuning with clinical knowledge, our method aims to enhance the accuracy of large language models (LLMs) in diagnosis, and provide more thorough, structured explanations.
 
-M-CityLLM: Improving City Related Tasks Performance via Multimodal Large Language Model
-------
-We propose a multimodal LLM specifically pre-trained and fine-tuned for city relavant tasks such as city object detection, city scene classification, geo-location reasoning, health and socioeconomics indicators prediction. A vision-language dataset for instruct tuning is built using millions of satellite and street view images sampled from cities around the world. By satellite-streetview fusion pre-training and downstream fine-tuning, we improve city relevant tasks performance. (To be submitted: ICLR'25)
-
 [Health CLIP: Depression Rate Prediction Using Satellite and Street View Images](https://dl.acm.org/doi/10.1145/3589335.3651451):
 ------
 As the pressure of society keeps growing, depression hasbecome a severe problem in modern cities, therefore finding a way toestimate depression rate is of significance to relieve the problem. We adopt GPT4-vision to generate health related captions for satellite and street view images, then fine-tune CLIP model with the encapsulated image-text pairs, pushing CLIP's image encoder to extract health related features. In the end, we concatenate the features with neural network to predict the depression rate in New York City. (WWW'24)
+
+M-CityLLM: Improving City Related Tasks Performance via Multimodal Large Language Model
+------
+We propose a multimodal LLM specifically pre-trained and fine-tuned for city relavant tasks such as city object detection, city scene classification, geo-location reasoning, health and socioeconomics indicators prediction. A vision-language dataset for instruct tuning is built using millions of satellite and street view images sampled from cities around the world. By satellite-streetview fusion pre-training and downstream fine-tuning, we improve city relevant tasks performance. (To be submitted: ICLR'25)
 
 [CityBench: Evaluating the Capabilities of Large Language Model as World Model](https://arxiv.org/abs/2406.13945):
 ------
