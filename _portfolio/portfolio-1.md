@@ -1,6 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Football"
+excerpt: "1 year old<br/><img src='/images/1 year old.jpg'>"
+collection: portfolio
+excerpt: "9 years old<br/><img src='/images/9 years old.jpg'>"
+collection: portfolio
+excerpt: "15 years old<br/><img src='/images/15 years old.jpg'>"
+collection: portfolio
+excerpt: "21 years old<br/><img src='/images/21 years old.jpg'>"
+collection: portfolio
+excerpt: "22 years old<br/><img src='/images/22 years old.jpg'>"
 collection: portfolio
 ---
 
