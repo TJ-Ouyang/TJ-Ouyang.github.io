@@ -1,15 +1,19 @@
----
-title: "Football"
-excerpt: "1 year old<br/><img src='/images/1 year old.jpg'>"
-collection: portfolio
-excerpt: "9 years old<br/><img src='/images/9 years old.jpg'>"
-collection: portfolio
-excerpt: "15 years old<br/><img src='/images/15 years old.jpg'>"
-collection: portfolio
-excerpt: "21 years old<br/><img src='/images/21 years old.jpg'>"
-collection: portfolio
-excerpt: "22 years old<br/><img src='/images/22 years old.jpg'>"
-collection: portfolio
----
+<h1>Football Portfolio</h1>
+
+<h2>1 Year Old</h2>
+<img src='/images/1 year old.jpg' alt='1 year old'>
+
+<h2>9 Years Old</h2>
+<img src='/images/9 years old.jpg' alt='9 years old'>
+
+<h2>15 Years Old</h2>
+<img src='/images/15 years old.jpg' alt='15 years old'>
+
+<h2>21 Years Old</h2>
+<img src='/images/21 years old.jpg' alt='21 years old'>
+
+<h2>22 Years Old</h2>
+<img src='/images/22 years old.jpg' alt='22 years old'>
+
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
