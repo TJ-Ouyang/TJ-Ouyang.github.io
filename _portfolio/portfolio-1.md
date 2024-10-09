@@ -4,14 +4,15 @@ collection: portfolio
 items:
   - excerpt: "1 year old"
     image: "/images/1 year old.jpg"
-  - excerpt: "9 years old"
+  - excerpt: "@Elementary School"
     image: "/images/9 years old.jpg"
-  - excerpt: "15 years old"
+  - excerpt: "@High School"
     image: "/images/15 years old.jpg"
-  - excerpt: "21 years old"
+  - excerpt: "@Shanghai Jiao Tong University"
     image: "/images/21 years old.jpg"
-  - excerpt: "22 years old"
+  - excerpt: "@Johns Hopkins University"
     image: "/images/22 years old.jpg"
+
 ---
 
 
